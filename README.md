@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-MedBuddy MyCut leverages the Gemini AI model to offer a comprehensive solution for healthcare management. Key features include:
+MedBuddy leverages the Gemini AI model to offer a comprehensive solution for healthcare management. Key features include:
 
 - **Intelligent Doctor Matching**: Find doctors based on location and specialization with AI-driven search capabilities.
 - **Appointment Booking**: Seamlessly book appointments with doctors through an interactive chatbot interface.
