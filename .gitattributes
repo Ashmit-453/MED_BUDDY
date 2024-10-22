@@ -1,0 +1,6 @@
+# Treat .css files as Python for language detection
+*.css linguist-language=Python
+
+# Optionally, mark other types of files
+# Mark minified CSS files as generated to exclude them from language stats
+*.min.css linguist-generated=true
